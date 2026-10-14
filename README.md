@@ -1,8 +1,3 @@
-Here is a simple `README.md` for your static HTML website.
-
-markdown
-```
-
 # My Website
 
 A simple, responsive static website built using HTML, CSS, and JavaScript.
@@ -62,6 +57,3 @@ hosting platform to handle missing pages automatically.
 
 This project is free to use and modify for personal
 or educational purposes.
-```
-
-Save this file as `README.md` in the same folder as your five HTML files.
